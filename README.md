@@ -1,6 +1,6 @@
 # Task_06_Deep_Fake
 
-**Goal.** Turn the Syracuse Women’s Lacrosse 2025 narrative from Task 5 into a short, human-sounding **interview** with two distinct AI voices (Host ↔ Analyst) created entirely with **free tools**. Emphasis is on a transparent, reproducible **process**—from narrative → script → synthesis → assembly—along with clear ethical disclosure.
+**Goal.** Turn the Syracuse Women’s Lacrosse 2025 narrative from Task 5 into a short, human-sounding **interview** with two distinct AI voices (Host ↔ Analyst) created entirely with **free tools**. Emphasis is on a transparent, reproducible **process**—from narrative → script → synthesis → assembly along with clear ethical disclosure.
 
 > **Disclosure**  
 > This interview is a dramatized, AI-generated piece for academic purposes. Voices are synthetic; no real individuals were recorded. Statistics are based on Syracuse Women’s Lacrosse 2025 data and prior analysis. This work is not affiliated with Syracuse University.
