@@ -54,7 +54,7 @@
 
 **C. Assembly & export**  
 - Normalize levels and insert ~650–700 ms pauses between lines to create a realistic cadence.  
-- Export a single **MP3** (see **download.mp3**).
+- Export a single **MP3**.
 
 **D. Quality checks**  
 - **Cadence:** adjust pause length if it feels rushed or draggy.  
@@ -76,7 +76,7 @@
 ## Ethics & Disclosure
 
 - The piece is fully **AI-generated** and begins with a **spoken disclosure**.  
-- No impersonation of real individuals; the **Analyst** is a generic voice/persona.  
+- No impersonation of real individuals. The **Analyst** is a generic voice/persona.  
 - All spoken stats reflect the Syracuse Women’s Lacrosse 2025 analysis
 
 ---
@@ -93,5 +93,14 @@
 
 ## Lessons Learned & Future Improvements
 
-- **Lessons:** per-line synthesis speeds iteration; short sentences and spelled-out numbers improve naturalness; small pause adjustments (±100–150 ms) dramatically improve human feel; light normalization is usually enough.  
-- **Next steps:** try light SSML for emphasis and micro-pauses; gentle compression/limiting for a broadcast finish; audition more voice pairs for tone; create a simple video variant with subtitles for accessibility.
+**Lessons:** 
+- Per-line synthesis speeds iteration
+- Short sentences and spelled-out numbers improve naturalness
+- Small pause adjustments (±100–150 ms) dramatically improve human feel
+- Light normalization is usually enough
+
+**Next steps:** 
+- Try light SSML for emphasis and micro-pauses
+- Gentle compression/limiting for a broadcast finish
+- Audition more voice pairs for tone
+- Create a simple video variant with subtitles for accessibility
